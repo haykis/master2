@@ -14,7 +14,9 @@ public class Omer2 {
 
         float y = x / 16;
 
-        System.out.println("Paranizin Euro degeri= "+y);
+        System.out.println("Paranizin Euro degeri= "+y+"£");
+
+        System.out.println("Hesaplama islemi tamamlanmistir.");
 
     }
 }

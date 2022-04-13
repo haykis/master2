@@ -6,5 +6,6 @@ public class Huseyin2 {
         System.out.println("yeniden basliyoruz");
 
       Omer2.deneme(145000.6f,"tl degerimi euro ya hesaplamaya basliyorum");
+
     }
 }
