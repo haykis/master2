@@ -18,5 +18,7 @@ public class Omer2 {
 
         System.out.println("Hesaplama islemi tamamlanmistir.");
 
+        System.out.println("Bizi tercih ettiginiz icin tesekkur ederiz...");
+
     }
 }
