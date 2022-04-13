@@ -7,4 +7,14 @@ public class Omer2 {
         System.out.println("Rahman ve rahim olan Allah' in adiyla...");
         System.out.println("pull islemini yapabilirsin");
     }
+
+    public static void deneme(float x, String str){
+
+        System.out.println(str);
+
+        float y = x / 16;
+
+        System.out.println("Paranizin Euro degeri= "+y);
+
+    }
 }
