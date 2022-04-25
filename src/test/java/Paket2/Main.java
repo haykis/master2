@@ -5,6 +5,8 @@ public class Main {
         metod1 obj=new metod1(3,4,5);
 
         metod2.metod("gunde 2 bazen 3 defa yemek yerim");
+        System.out.println("sonuc");
     }
+
 
 }
