@@ -6,4 +6,5 @@ public class Main {
 
         metod2.metod("gunde 2 bazen 3 defa yemek yerim");
     }
+
 }
